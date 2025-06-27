@@ -23,4 +23,5 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Certifications</b>
   - [Comptia Security+](https://www.credly.com/badges/a132bb48-9fc8-44ce-8f1c-81d633f3a48a/public_url) 
-  - Google Cyber Security
+  - [Google Cyber Security](https://coursera.org/share/512366b2017ab8f817b98bf9b29c247f)
+  - 
