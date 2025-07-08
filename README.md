@@ -3,8 +3,8 @@
 <h2>IT Professional with interest in Cyber and DevOps</h2>
 
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... powershell and python with DevOps applications 
+- 🔭 I’m currently working on getting this GitHub lookin pretty
+- 🌱 I’m currently learning powershell and python with DevOps applications 
 - ⚡ Fun fact: I like movies
 
 
