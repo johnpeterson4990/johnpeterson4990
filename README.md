@@ -1,4 +1,4 @@
-<h1>Hi, I'm John Peterson! <br/><a href="https://github.com/johnpeterson4990/">IT</a>, <a href="https://www.linkedin.com/in/johnpeterson-4990/">Cybersecurity</a>, <a href="https://www.youtube.com/c/joshmadakor">DevOps</a></h1>
+<h1>Hi, I'm John Peterson! <br/><>IT</a>, <a>Cybersecurity</a>, DevOps</h1>
 
 <h2>IT Professional</h2>
 
