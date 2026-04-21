@@ -19,4 +19,5 @@
 - <b>Certifications</b>
   - [Comptia Security+](https://www.credly.com/badges/a132bb48-9fc8-44ce-8f1c-81d633f3a48a/public_url) 
   - [Google Cyber Security](https://coursera.org/share/512366b2017ab8f817b98bf9b29c247f)
-    
+  - *In progress* IAM Fundamentals with Okta (https://www.linkedin.com/learning/iam-fundamentals-with-okta) 
+  - *In progress* Google Workspace Administrator Associate Cert Prep (https://www.linkedin.com/learning/google-workspace-administrator-associate-cert-prep)
