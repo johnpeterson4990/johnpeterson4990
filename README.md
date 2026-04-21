@@ -11,7 +11,7 @@
 - <b>PowerShell</b>
   - To Automate Enabling IPv6 on Windows Devices (https://github.com/johnpeterson4990/EnableIPV6)
 - <b>Java - Object Oriented Programming</b>
-  - [Good How are You Game (https://github.com/johnpeterson4990/Java-Program/tree/master)]
+  - Good How are You Game (https://github.com/johnpeterson4990/Java-Program/tree/master)
 - <b>Python</b>
   - Jedi Status Checker App (https://github.com/johnpeterson4990/JediStatusCheck) 
 - <b>Certifications</b>
